@@ -17,6 +17,7 @@
     <modules>
         <module>baocms-eureka</module>
         <module>baocms-discovery</module>
+        <module>baocms-monitor</module>
         <!--
         <module>paascloud-discovery</module>
         <module>paascloud-monitor</module>
